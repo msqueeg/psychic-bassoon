@@ -1,5 +1,5 @@
 <?php
-namespace HRM\Classes;
+namespace Msqueeg\Classes;
 /**
 * Message Class implements Mailer
 */
